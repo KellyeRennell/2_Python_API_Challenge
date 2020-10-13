@@ -7,7 +7,7 @@ Objective - Provide visualization and analysis for the weather of 500+ cities ac
 - Include a print log of each city as it processes with city number and name printed.
 - Save both a csv file and png images for each scatter plot.
 
-Scatter Plots to be created:
+Objectives for Scatter Plots Visualizations:
 
 1. Temperature (F) vs. Latitude
 2. Humidity (%) vs. Latitude
